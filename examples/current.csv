@@ -1,0 +1,9 @@
+exposure_id,counterparty,sector,country,rating,ead,pd,lgd
+EXP-001,Northstar Manufacturing,Industrials,US,BBB,13200000,0.019,0.42
+EXP-002,Harbor Retail Group,Consumer,US,B,8200000,0.067,0.52
+EXP-003,Summit Energy Partners,Energy,CA,BBB,9600000,0.021,0.40
+EXP-004,Bluefield Logistics,Transport,GB,A,6900000,0.009,0.34
+EXP-005,Cedar Health Systems,Healthcare,US,A,9400000,0.010,0.32
+EXP-006,Atlas Components,Industrials,DE,B,7600000,0.081,0.55
+EXP-007,Meridian Software,Technology,US,BBB,6100000,0.016,0.38
+EXP-009,Redwood Telecom,Telecom,US,BBB,8500000,0.024,0.44
